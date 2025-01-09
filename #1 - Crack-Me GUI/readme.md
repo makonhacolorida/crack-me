@@ -10,7 +10,7 @@ esse aqui dificultou um pouquinho mas não é nada que um cachorro adestrado con
 3. Vi que o programa foi feito em CSharp pela descompilação do GHidra que por sua vez tinha funçôes como `button1_Click` e `Home_Load`
 4. Agora que descobrimos que o Programa foi feito em CSharp temos que migrar para o nosso querido (desgraça que o diabo providenciou) o [dnSpy](https://github.com/julianorinaldi/dnSpy#:~:text=Uma%20ferramenta%20para%20voc%C3%AA%20fazer,tenha%20o%20c%C3%B3digo%20fonte%20dispon%C3%ADvel.)
 5. Agora que provavelmente você levantou a bunda da sua cadeira e está no dnSpy, irei lhe amostrar um breve resumo de cada função extraida pelo dnSpy:
-6. antes que você me lixe e me denuncie para a PF por roubar o coração da morena, Um aviso: Descartei partes que achei desnecessario para o tutorial (quase me joguei fora)
+6. antes que você me lixe e me denuncie para a PF, Um aviso: Descartei partes que achei desnecessario para o tutorial (quase me joguei fora)
  ![Print](https://github.com/sickshark2007/crack-me/blob/main/%231%20-%20Crack-Me%20GUI/mapa_mental.png)
 7. Quando o botão "Start Program Now" for clicado executará `Start_Click` quando tal função for executada, será verificado se o arquivo "validate.key" existe,
 se ele não existir retornará em You cannot start this program. Missing License Key. (Tradução: Você não pode iniciar este programa. Chave de licença ausente.), Caso exista irá comparar a senha que está no arquivo `license.key` com a do `validate.key`.
