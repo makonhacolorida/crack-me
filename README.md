@@ -1,5 +1,6 @@
 > AVISO: Eu tinha postado esse mesmo repositorio em outra conta do github de minha posse, qualquer duvida estarei disponivel (e com acesso em ambas as contas).
-> AVISO²: Fiz esse mini projeto com intuito de até um neandertal aprender o minimo de Engenharia Reversa, se você se ofendeu saia do meu repositorio e vai militar no Twitter seu bosta.
+
+> ⚠️ Fiz esse mini projeto com intuito de até um neandertal aprender o minimo de Engenharia Reversa, se você se ofendeu saia do meu repositorio e vai militar no Twitter seu bosta.
 
 ---
 
