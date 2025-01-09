@@ -1,5 +1,7 @@
 > AVISO: Eu tinha postado esse mesmo repositorio em outra conta do github de minha posse, qualquer duvida estarei disponivel (e com acesso em ambas as contas).</br>
-> Não sou um expert, tento ajudar como eu posso, qualquer duvida, estou disponivel para tentar-lo te ajudar.</br>
+
+> Não sou um expert, tento ajudar como eu posso, qualquer duvida estou disponivel para tentar-lo te ajudar.</br>
+
 > ⚠️ Fiz esse mini projeto com intuito de até um neandertal aprender o minimo de Engenharia Reversa, se você se ofendeu saia do meu repositorio e vai militar no Twitter seu bosta.</br>
 
 ---
